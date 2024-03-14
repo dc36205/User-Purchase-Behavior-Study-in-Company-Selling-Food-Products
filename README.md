@@ -3,9 +3,9 @@ User Purchase Behavior Study in a Company Selling Food Products
 
 It is necessary to develop a study on user behavior for the company's application.
 
-The data is essentially is concentrated in a single dataset that collects information pertaining to user purchase 
-transactions. Information was provided on: event name, event time, user identifier and experiment number. The dataset has
- 244126 records and 4 columns.
+The data is essentially concentrated in a single dataset that collects the information pertaining to the purchase 
+transactions of the users divided into 3 groups 246, 247 and 248. Information was provided on: name of the event, time of
+ the event, user identifier and experiment number. The dataset has 244126 records and 4 columns.
 
 Table of Contents
 =================
