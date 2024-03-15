@@ -17,6 +17,7 @@ transactions of the users divided into 3 groups 246, 247 and 248. Information wa
 * [Results and recommendations](#observations)
 * [Conclusion](#conclusion)
 =================
+
 # 1. Problem Statement
 
 The main objective of the project is to determine user purchasing behavior.
