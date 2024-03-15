@@ -7,7 +7,7 @@ The data is essentially concentrated in a single dataset that collects the infor
 transactions of the users divided into 3 groups 246, 247 and 248. Information was provided on: name of the event, time of
  the event, user identifier and experiment number. The dataset has 244126 records and 4 columns.
 
-Table of Contents
+# Table of Contents
 
 * [Problem Statement](#problem)
 * [Technical Requirements](#technical)
