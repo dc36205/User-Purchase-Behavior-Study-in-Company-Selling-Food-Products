@@ -11,7 +11,7 @@ Table of Contents
 =================
 # 1. Problem Statement
 
-The main objective of the project is to determine user behavior.
+The main objective of the project is to determine user purchasing behavior.
 
 # 2. Data Description
 
