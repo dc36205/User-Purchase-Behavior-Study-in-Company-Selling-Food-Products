@@ -8,12 +8,30 @@ transactions of the users divided into 3 groups 246, 247 and 248. Information wa
  the event, user identifier and experiment number. The dataset has 244126 records and 4 columns.
 
 Table of Contents
+
+* [Problem Statement](#problem)
+* [Technical Requirements](#technical)
+* [Data Description](#data)
+* [Data Cleaning and preparation](#preparation)
+* [Metric calculation](#metric)
+* [Results and recommendations](#observations)
+* [Conclusion](#conclusion)
 =================
 # 1. Problem Statement
 
 The main objective of the project is to determine user purchasing behavior.
 
-# 2. Data Description
+# 2. Technical Requirements
+
+### Installed libraries
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* plotly
+* statsmodels for proportions_ztest
+
+# 3. Data Description
 
 * Number of instances - 244126
 * Number of attributes - 4
@@ -26,14 +44,7 @@ The main objective of the project is to determine user purchasing behavior.
 * EventTimestamp 
 * ExpId
 
-# 3. Technical Requirements
 
-### Installed libraries
-* pandas
-* numpy
-* seaborn
-* matplotlib
-* plotly
-* statsmodels for proportions_ztest
+# 4. Some results
 
-# 4. Results
+![](https://github.com/dc36205/Market_Study_of_Commercial_Establishments_in_LA/blob/main/imgs/barplot_avenues_most_restaurant_seatss.png)
