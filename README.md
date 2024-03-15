@@ -16,7 +16,7 @@ transactions of the users divided into 3 groups 246, 247 and 248. Information wa
 * [Metric calculation](#metric)
 * [Results and recommendations](#observations)
 * [Conclusion](#conclusion)
-=================
+
 
 # 1. Problem Statement
 
