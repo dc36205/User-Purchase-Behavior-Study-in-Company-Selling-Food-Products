@@ -13,11 +13,11 @@ transactions of the users divided into 3 groups 246, 247 and 248. Information wa
 * [Technical Requirements](#technical)
 * [Data Description](#data)
 * [Data Cleaning and preparation](#preparation)
-* [Metric calculation](#metric)
-* [Results and recommendations](#observations)
+* [Study and check the data in depth](#study)
+* [Study the funnels](#funnels)
+* [Hypothesis testing](#hypothesis)
 * [Conclusion](#conclusion)
-
-
+----------------------------------------------
 # 1. Problem Statement
 
 The main objective of the project is to determine user purchasing behavior.
